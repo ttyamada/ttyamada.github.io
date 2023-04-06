@@ -1,0 +1,7 @@
+old/
+
+*.out
+*.txt
+*.log
+*.so
+*.c
