@@ -5,3 +5,4 @@ old/
 *.log
 *.so
 *.c
+.DS_Store
